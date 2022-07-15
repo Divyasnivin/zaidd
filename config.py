@@ -11,7 +11,7 @@ load_dotenv()
 admins = {}
 SESSION_NAME = getenv("SESSION_NAME", "BAA3Q0D0zOkI_MffK69qiluylJ-NSfP8E-FX_RuhJIo906Sz1If6cSLuQYTpkIMmWdFehjEHpkOegLqVD8pdsLObq7fuvlmSuLO7hZpbYNErsqLvQKXxmhCYu0yPL1u7JPzqAabSrRvt6v1TTg4zKRwDe59gUGX0FQ6AqoEjnnA5ryIcyoFRlsADinihUgoL-kn5uKxagucvz84RBMOJYD49SZ21Xt1so9BH_WwNgik7N-mJy1YlQgkK6zBF6q-YxfF3eMYdIQsYANdHRxip5gqcj0r-hDOkrtpUxprBgsAht3ZYvSoR6OpBprnBo6HfBLythse8aIYRDbQwvXt7dqGkAAAAACbwiEIA")
 BOT_TOKEN = getenv("BOT_TOKEN", "5130396512:AAGZQTvxI92Z47beIoNGsV3WN4DkZyZvoH0")
-BOT_NAME = getenv("BOT_NAME", "فيليكس")
+BOT_NAME = getenv("BOT_NAME", "felix")
 API_ID = int(getenv("API_ID", "19680685"))
 API_HASH = getenv("API_HASH", "35c8346d7d35af39fcc9204493970277")
 OWNER_NAME = getenv("OWNER_NAME", "هادي")
